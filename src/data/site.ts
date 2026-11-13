@@ -1,6 +1,8 @@
 export const siteConfig = {
-  name: "MeeTrip",
-  url: "https://meetrip.in",
-  description: "MeeTrip - Your Ultimate Travel & Trip Companion",
-  gtmId: "GTM-XXXXXXX", // Replace with your MeeTrip GTM Container ID when ready
+    name: "MeeTrip",
+    url: "https://meetrip.in",
+    description: "Curated Tours & Travels for Vizag, Araku, Lambasingi, and Beyond.",
+    email: "trip@meetrip.in",
+    phone: "9492790116",
+    tribute: "Dedicated in loving memory of Sarojini",
 };
